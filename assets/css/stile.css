@@ -1,0 +1,131 @@
+
+body{
+    width: 100%;
+}
+#testa1{
+    width: 100%;
+    height: 60px;
+    background-color: #222F3F;
+
+}
+#logo{
+    width: 10%;
+    margin: 1.5%;
+}
+#testa2{
+    width: 100%;
+    height: 30px;
+    background-color: #374858;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    padding: 0 9px;
+    
+}
+#tuttilink{
+    padding-top: 5px;
+}
+
+#arancione{
+    
+    background-color: #F56600;
+    height: 33px;
+    text-align: center;    
+    margin-top: 30px;
+}
+#scrittarancio{
+    color: white;
+    padding-top: 9px;
+}
+
+main{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+body{
+    background-color: #E9EDEE;
+}
+#img{
+    background-image: url(../images/bg-image.png);
+    height: 150px;
+    background-size: contain;
+    margin-top: 30px;
+}
+#scritta1{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#scritta2{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 600;
+}
+#contimg{
+    display: inline-block;
+    display: inline-block;
+    border: 1px solid transparent;
+    
+    
+    background-color: white;
+    
+    
+    padding: 0 50px 15px;
+    margin-top: 30px;
+    box-sizing: border-box;
+
+}
+
+
+.immagini{
+    display: inline-block;
+    width: 200px;
+    height: 225px;
+    border-radius: 20px;
+    margin: 0 15px;
+}
+
+#testo2{
+    margin: 10px 10px 10px;
+    
+}
+.immaginecentro{
+    width: 100%;
+    margin-top: 30px;
+}
+.play{
+    text-align: center;
+}
+
+#barrablu{
+    width: 100%;
+    height: 35px;
+    background-color: #364759;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 13px;
+}
+#link2{
+    color: white;
+}
+#barrablu2{
+    background-color: #222F3F;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+#logo2{
+    width: 15%;
+    margin-top: 30px;
+}
+.liink{
+    text-decoration: none;
+    margin-left: 15px;
+}
